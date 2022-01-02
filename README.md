@@ -2,9 +2,7 @@
 
 Continuous Integration (CI) és una metodologia de desenvolupament que millora la qualitat tant del procés de desenvolupament d’un software com del producte final en què resulta. Més concretament, les practiques que comprenen la metodologia es basen en l’automatització de processos de control de qualitat. Sovint, aquests processos es manifesten en forma de tests automatitzats que s'executen abans de fer efectiva una contribució a una versió existent d'un software. La responsabilitat d'automatitzar aquests processos recau sobre el programari de control de versió (ja sigui GitLab, GitHub, etc.), pel que es minimitza la quantitat de temps invertida per part de l’equip desenvolupador en aquestes tasques. Tanmateix, a aquest, li és possible definir exactament els detalls del fluxe d’execució d’aquests processos per mitjà de fitxers com el que es mostra a continuació:
 
-<code>
- dsa
- </code>
+<img width="1219" alt="Captura de pantalla 2022-01-02 a las 14 22 37" src="https://user-images.githubusercontent.com/28115415/147877182-637c670b-f4e3-45ad-9988-3ebad7531b80.png">
 
 ## python-app.yml
 
